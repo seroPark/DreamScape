@@ -1,0 +1,12 @@
+unityTimeStamp,Event
+2023-10-12|18:41:11.361,New App Execution
+unityTimeStamp,Event
+2023-10-12|18:42:26.760,New App Execution
+unityTimeStamp,Event
+2023-10-12|18:43:44.325,New App Execution
+unityTimeStamp,Event
+2023-10-12|18:45:36.834,New App Execution
+unityTimeStamp,Event
+2023-10-12|18:46:19.610,New App Execution
+unityTimeStamp,Event
+2023-10-12|18:48:44.136,New App Execution
