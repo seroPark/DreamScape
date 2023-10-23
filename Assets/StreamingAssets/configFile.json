@@ -1,7 +1,7 @@
 {
     "logSettings": {
         "sessionId": "SessionID",
-        "mainLogFolder": "/Users/sera/Library/CloudStorage/OneDrive-TheUniversityofSydney(Students)/2023_02/DECO2021/DreamScape/Assets/../LogFiles_ExciteOMeter/",
+        "mainLogFolder": "/Users/sera/Documents/GitHub/DreamScape/Assets/../LogFiles_ExciteOMeter/",
         "mainDebugFilename": "logDebug.txt",
         "sessionJsonFilename": "sessionData.json",
         "captureScreenshots": true,
