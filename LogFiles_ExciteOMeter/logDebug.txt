@@ -14,3 +14,13 @@ unityTimeStamp,Event
 2023-10-23|16:21:56.279,New App Execution
 unityTimeStamp,Event
 2023-10-23|17:27:00.057,New App Execution
+unityTimeStamp,Event
+2023-10-23|17:47:25.388,New App Execution
+unityTimeStamp,Event
+2023-10-24|22:47:43.483,New App Execution
+unityTimeStamp,Event
+2023-10-24|22:55:45.270,New App Execution
+unityTimeStamp,Event
+2023-10-24|23:27:14.134,New App Execution
+unityTimeStamp,Event
+2023-10-24|23:31:24.347,New App Execution
