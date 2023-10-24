@@ -1,7 +1,7 @@
 {
     "logSettings": {
         "sessionId": "SessionID",
-        "mainLogFolder": "/Users/sera/Documents/GitHub/DreamScape/Assets/../LogFiles_ExciteOMeter/",
+        "mainLogFolder": "/Users/riufukazawa/Documents/GitHub/DreamScape/Assets/../LogFiles_ExciteOMeter/",
         "mainDebugFilename": "logDebug.txt",
         "sessionJsonFilename": "sessionData.json",
         "captureScreenshots": true,
