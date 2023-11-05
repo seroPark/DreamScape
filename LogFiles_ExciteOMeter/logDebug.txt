@@ -127,7 +127,6 @@ unityTimeStamp,Event
 2023-11-04|22:46:33.180,New App Execution
 unityTimeStamp,Event
 2023-11-05|14:24:12.431,New App Execution
-<<<<<<< HEAD
 2023-11-04|22:30:47.349,New App Execution
 unityTimeStamp,Event
 2023-11-04|22:33:34.864,New App Execution
@@ -159,9 +158,3 @@ unityTimeStamp,Event
 2023-11-04|23:02:35.843,New App Execution
 unityTimeStamp,Event
 2023-11-05|14:34:28.157,New App Execution
-=======
->>>>>>> parent of 5fbe0f9 (Merge branch 'Branch3' of https://github.com/seroPark/DreamScape into Branch3)
-unityTimeStamp,Event
-2023-11-05|14:36:35.865,New App Execution
-unityTimeStamp,Event
-2023-11-05|14:52:12.776,New App Execution
