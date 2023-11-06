@@ -168,3 +168,15 @@ unityTimeStamp,Event
 2023-11-06|17:53:08.319,New App Execution
 unityTimeStamp,Event
 2023-11-06|17:55:36.706,New App Execution
+unityTimeStamp,Event
+2023-11-06|18:04:41.266,New App Execution
+unityTimeStamp,Event
+2023-11-06|18:06:34.775,New App Execution
+unityTimeStamp,Event
+2023-11-06|18:08:40.754,New App Execution
+unityTimeStamp,Event
+2023-11-06|18:10:04.867,New App Execution
+unityTimeStamp,Event
+2023-11-06|18:11:38.301,New App Execution
+unityTimeStamp,Event
+2023-11-06|18:21:08.933,New App Execution
